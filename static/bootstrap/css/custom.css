@@ -1,0 +1,86 @@
+.carousel-inner img{
+    width: 100%;
+    height: 54vw;
+    padding-top: 2px;
+}
+.a{
+    height: 30vh;
+    width: 80%;
+}
+.y{
+    height: 60vh;
+}
+
+.x{
+    height: 20vh;
+    width: 40%;
+}
+.b{
+    width: 60px;
+    height: 60px;
+}
+.c{
+    width: 65px;
+    height: 65px;
+}
+.z{
+    height: 12vh;
+}
+
+.sec-one{
+    height: 60vh;
+    width: 100%;
+    justify-content: center;
+}
+.sec-one{
+    background-image: url("../../images/man woman pet dog.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.but-one{
+    border: unset;
+    background: unset;
+}
+.but-two{
+    height: 40px;
+    width: 90px;
+    border: unset;
+    border-radius: 70px;
+}
+.but-three{
+    color: black;
+    height: 40px;
+    width: 90px;
+    border: white;
+    border: 70px;
+    border-radius: 70px;
+    background-color: unset;
+}
+.div-one button{
+    width: 200px;
+    height: 40px;
+    border-radius: 70px;
+    border: unset;
+    margin-left: 50px;
+}
+.div-two button{
+     width: 200px;
+    height: 40px;
+    border-radius: 70px;
+    border: unset;
+    margin-left: 50px;
+}
+.div-three img{
+   width: 50px;
+    height: 10vh;
+}
+.div-three button{
+    width: 200px;
+    height: 40px;
+    border-radius: 70px;
+    border: 1px solid #007bff;
+    background: none;
+}
+.div-four{
+    height: 10vh;
+}
